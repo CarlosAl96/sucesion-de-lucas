@@ -18,7 +18,7 @@ public class LucasSeries implements Runnable {
     public void run() {
         int size = end - start;
 
-        System.out.println(" Desde: [" + start + "] Hasta: [" + (end - 1) + "]");
+        System.out.println(" (Desde: [" + start + "] Hasta: [" + (end - 1) + "])");
 
         if (size > 0) {
             for (int i = start; i < end; i++) {

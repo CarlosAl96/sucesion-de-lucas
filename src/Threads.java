@@ -35,7 +35,7 @@ public class Threads {
 
                 Thread thread = new Thread(runnable);
                 thread.start();
-                System.out.print("Hilo: " + (i + 1) + " ejecutandose");
+                System.out.print("Hilo " + (i + 1) + " ejecutandose");
 
                 thread.join();
                 index = 0;

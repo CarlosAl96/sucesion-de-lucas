@@ -1,5 +1,11 @@
 import java.util.Scanner;
 
+/*
+    DESARROLLADO POR:
+
+        - Mario Josué Grieco Villamizar C.I.: 26205981
+        - Carlos Alveiro Ceballo Vergara C.I.: 26031211
+ */
 public class Main {
     public static void main(String[] args) {
 
